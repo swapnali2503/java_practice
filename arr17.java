@@ -1,3 +1,4 @@
+// target element in array
 
 import java.util.*;
 class arr17{
