@@ -1,4 +1,4 @@
-
+// merge two arrays
 
 import java.util.*;
 public class arr14 {
